@@ -9,7 +9,7 @@ Under the hood:
 *   [ant.design](https://ant.design)
 *   [redux-saga](https://github.com/redux-saga/redux-saga)
 *   [redux-saga-firebase](https://github.com/n6g7/redux-saga-firebase)
-*   localStorage persistece to prevent form data from lose on page refresh
+*   localStorage persistence to prevent form data from lose on page refresh
 *   client side form validation
 
 ## Dev mode
