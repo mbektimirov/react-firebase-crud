@@ -38,11 +38,11 @@ class UsersIndex extends React.Component {
           </Breadcrumb>
           <div className="content">
             <Row>
-              <Col md={20} lg={10} xl={10}>
+              <Col md={null} lg={10}>
                 {/* dirty hack to prevent ant-design FormItem server render bug */}
                 {isClient && <UserForm editId={editId} />}
               </Col>
-              <Col md={null} lg={14} xl={14}>
+              <Col md={null} lg={14}>
                 <UsersTable users={this.props.users} />
               </Col>
             </Row>
