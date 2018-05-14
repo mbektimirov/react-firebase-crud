@@ -1,0 +1,14 @@
+.content-wrapper {
+  padding: 0 50px;
+}
+
+.content {
+  background: #fff;
+  padding: 24px;
+  min-height: 280;
+}
+
+.breadcrumbs {
+  margin: 16px 0;
+}
+
